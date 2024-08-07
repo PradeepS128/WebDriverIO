@@ -1,0 +1,26 @@
+Implement POM :
+POM
+
+Parameterize the test cases:
+Do it in feature file
+
+Data driven testing from Json files
+We can use json file
+
+Utilization of capabilities to run tests in parallel/Diffrent browsers
+
+
+Running selective tests
+Creating Test Suits and controlling the execution with command line parameters
+Building customized Wdio config file to run tests with diffrent options and enviroments
+Retry Mechanism to run flaky tests
+Generate HTML reports
+Implement Pre and Post hooks to capture screenshots
+Integrate the complete WebdriverIO framework into jenkins for continuos Integration
+
+
+
+$ (single element)
+$$ (multiple elements)
+
+brow

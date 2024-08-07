@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "@wdio/globals/types",
+            "@wdio/cucumber-framework"
+        ]
+    },
+    "include":[
+        "**/*.js",
+        "**/*.json",
+        "node_modules/@wdio/sync",
+        "node_modules/@wdio/cucumber-framework"
+    ]
+
+}
